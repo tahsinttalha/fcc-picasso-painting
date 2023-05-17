@@ -123,4 +123,29 @@ body {
   margin-left: 13%;
 }
 
+.blue {
+  background-color: #1E90FF;
+}
 
+#blue-left {
+  width: 500px;
+  height: 300px;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+}
+
+#blue-right {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+
+#orange-character {
+  width: 250px;
+  height: 550px;
+  background-color: rgb(240, 78, 42);
+  
+}
